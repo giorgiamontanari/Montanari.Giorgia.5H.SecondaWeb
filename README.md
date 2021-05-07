@@ -1,8 +1,7 @@
 # SecondaWeb
 ## Progetto scolastico Marzo 2021
-![immagine immagine](wwwroot/Tema/images/gitreadmeimage.png)
-![immagine immagine](wwwroot/Tema/images/gitreadmeimage2.png)
-
+| ![immagine immagine](wwwroot/Tema/images/gitreadmeimage.png) | ![immagine immagine](wwwroot/Tema/images/gitreadmeimage2.png) |
+| ------------- | ------------- |
 
 
 - Progetto creato in mvc, Asp Net, dotnet 5
