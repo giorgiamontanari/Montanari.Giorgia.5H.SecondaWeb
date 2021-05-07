@@ -1,7 +1,7 @@
 # SecondaWeb
 ## Progetto scolastico Marzo 2021
 ![immagine immagine](wwwroot/Tema/images/gitreadmeimage.png) 
-![immagine immagine](wwwroot/Tema/images/gitreadmeimage2.png)
+![image image](wwwroot/Tema/images/gitreadmeimage2.png)
 
 
 
