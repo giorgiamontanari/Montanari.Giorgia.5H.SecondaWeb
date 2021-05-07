@@ -1,5 +1,8 @@
 # SecondaWeb
 ## Progetto scolastico Marzo 2021
+![immagine immagine](wwwroot/Tema/images/gitreadmeimage.png)
+
+
 
 - Progetto creato in mvc, Asp Net, dotnet 5
 - Al suo interno vi è la Registrazione e il Login che permetterà poi di accedere alla pagina di Privacy.
